@@ -1,0 +1,6 @@
+[Details]
+Icon = "assets/icon.png"
+Name = "API Stress Test"
+ID = "com.api_test"
+Version = "1.0.0"
+Build = 1
